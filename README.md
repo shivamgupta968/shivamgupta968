@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:991b1b,100:ef4444&height=200&section=header&text=SHIVAM%20GUPTA&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7f0000,100:DC2626&height=200&section=header&text=SHIVAM%20GUPTA&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EF4444&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
 
