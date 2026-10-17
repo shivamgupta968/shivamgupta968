@@ -28,9 +28,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamgupta968&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ef4444&icon_color=ef4444&text_color=ffffff&border_color=7f1d1d" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta968&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff&border_color=7f1d1d" alt="Top languages" />
 
 </div>
 
@@ -44,18 +41,40 @@
 
 <div align="center">
 
-<a href="https://github.com/shivamgupta968"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0a0a0a&height=100&section=footer" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:00C9FF,100:FF61D2&height=100&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+### 👋 Hey there! Welcome to my profile!
+
+✨ Thanks for visiting my GitHub profile.  
+🚀 Explore my projects and see what I'm building.  
+🤝 Feel free to connect, collaborate, and learn together!
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,50:DD2476,100:7F00FF&height=100&section=header&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+### 🙋‍♂️ Hi, I'm Shivam Gupta!
 
 </div>
-<h2 align="center">📊 GitHub Stats</h2>
+
+- 🎓 **Education:** B.Tech in Computer Science Engineering (AI & ML)
+- 💻 **Interests:** Software Development, Artificial Intelligence and Machine Learning
+- 🛠️ **Tech Stack:** Python, JavaScript, HTML, CSS, React and Tailwind CSS
+- 🚀 **Passion:** Building practical projects and solving problems
+- 🌱 **Currently:** Learning new technologies and improving my skills
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta968&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=450000" height="165" />/<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta968&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff&border_color=450000" height="165" />/?
+
+### 💜 Code • Create • Learn • Repeat 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:FF61D2&height=80&section=footer" width="100%" />
+
 </div>
+
+---
