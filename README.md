@@ -53,3 +53,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0a0a0a&height=100&section=footer" width="100%" />
 
 </div>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta968&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff&icon_color=ef4444&border_color=450000" height="165" />/<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta968&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ef4444&text_color=ffffff&border_color=450000" height="165" />/?
+</div>
