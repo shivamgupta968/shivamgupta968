@@ -33,7 +33,7 @@
 
 ## <img src="https://img.shields.io/badge/Featured_Projects-DC2626?style=for-the-badge" />
 
-- 🍔 **Food Ordering Website** — [Add your actual repository link here.](https://github.com/shivamgupta968/food-ordering-website)
+- 🍔 **Food Ordering Website** —- 🍔 **Food Ordering Website** — [Repo](https://github.com/shivamgupta968/flavoro-food-ordering) | [Live](https://flavoro-food-ordering-app.netlify.app)
 - 🤖 **AI-Based Career Recommendation System** — [Add your actual repository link here.](https://github.com/shivamgupta968/Career-Recommendation-System)
 - ⚡ **AI-Powered UI Component Generator** —[ Add your actual repository link here.
 ](https://github.com/shivamgupta968/ai-component-generator)
