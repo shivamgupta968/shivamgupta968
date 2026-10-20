@@ -35,7 +35,7 @@
 
 - 🍔 **Food Ordering Website** — [Repo](https://github.com/shivamgupta968/flavoro-food-ordering) | [Live](https://flavoro-food-ordering-app.netlify.app)
 - 🤖 **AI-Based Career Recommendation System** — [Add your actual repository link here.](https://github.com/shivamgupta968/Career-Recommendation-System)
-- ⚡ **AI-Powered UI Component Generator** —(https://github.com/shivamgupta968/ai-component-generator)](https://ai-component-generato.vercel.app/)
+- ⚡ **AI-Powered UI Component Generator** —[(https://github.com/shivamgupta968/ai-component-generator)](https://ai-component-generato.vercel.app/)](https://ai-component-generato.vercel.app/)
 ## <img src="https://img.shields.io/badge/Connect_With_Me-DC2626?style=for-the-badge" />
 
 <div align="center">
